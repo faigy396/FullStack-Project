@@ -1,0 +1,15 @@
+Z:\react & webapi project\web api server\server\DTO\bin\Debug\net6.0\DTO.deps.json
+Z:\react & webapi project\web api server\server\DTO\bin\Debug\net6.0\DTO.dll
+Z:\react & webapi project\web api server\server\DTO\bin\Debug\net6.0\DTO.pdb
+Z:\react & webapi project\web api server\server\DTO\bin\Debug\net6.0\DAL.dll
+Z:\react & webapi project\web api server\server\DTO\bin\Debug\net6.0\DAL.pdb
+Z:\react & webapi project\web api server\server\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+Z:\react & webapi project\web api server\server\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+Z:\react & webapi project\web api server\server\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+Z:\react & webapi project\web api server\server\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+Z:\react & webapi project\web api server\server\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+Z:\react & webapi project\web api server\server\DTO\obj\Debug\net6.0\DTO.csproj.CopyComplete
+Z:\react & webapi project\web api server\server\DTO\obj\Debug\net6.0\DTO.dll
+Z:\react & webapi project\web api server\server\DTO\obj\Debug\net6.0\refint\DTO.dll
+Z:\react & webapi project\web api server\server\DTO\obj\Debug\net6.0\DTO.pdb
+Z:\react & webapi project\web api server\server\DTO\obj\Debug\net6.0\ref\DTO.dll

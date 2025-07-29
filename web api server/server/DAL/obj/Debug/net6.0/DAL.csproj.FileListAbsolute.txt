@@ -1,0 +1,14 @@
+Z:\react & webapi project\web api server\server\DAL\bin\Debug\net6.0\DAL.deps.json
+Z:\react & webapi project\web api server\server\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+Z:\react & webapi project\web api server\server\DAL\bin\Debug\net6.0\DAL.dll
+Z:\react & webapi project\web api server\server\DAL\bin\Debug\net6.0\DAL.pdb
+Z:\react & webapi project\web api server\server\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+Z:\react & webapi project\web api server\server\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\react & webapi project\web api server\server\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+Z:\react & webapi project\web api server\server\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+Z:\react & webapi project\web api server\server\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+Z:\react & webapi project\web api server\server\DAL\obj\Debug\net6.0\DAL.dll
+Z:\react & webapi project\web api server\server\DAL\obj\Debug\net6.0\refint\DAL.dll
+Z:\react & webapi project\web api server\server\DAL\obj\Debug\net6.0\DAL.pdb
+Z:\react & webapi project\web api server\server\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+Z:\react & webapi project\web api server\server\DAL\obj\Debug\net6.0\ref\DAL.dll

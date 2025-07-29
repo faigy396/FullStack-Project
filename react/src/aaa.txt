@@ -1,0 +1,28 @@
+ShoppingCart:
+    addThisCart.gameId = item.id;
+    addThisCart.gameName = item.name;
+    addThisCart.price = item.price;
+    addThisCart.amount = 1;
+    addThisCart.totalPrice = item.price;
+
+Game:
+    "id": 0,
+    "barcode": "string",
+    "name": "string",
+    "categoryId": 0,
+    "categoryName": "string",
+    "price": 0,
+    "picture": "string",
+    "quantityInStock": 0
+
+shopping
+    "id": 0,
+    "custId": 0,
+    "sDate": "2025-01-08T10:21:04.771Z",
+    "paySum": 0
+
+customer
+    "id": 0,
+    "custName": "string",
+    "pass": "string",
+    "creditDetails": "string"
