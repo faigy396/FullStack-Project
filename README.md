@@ -49,25 +49,27 @@ This repository contains a full stack web application for an online shop, built 
 ### Backend Setup
 1. Navigate to `web api server/server/`.
 2. Restore NuGet packages:
-   ```
-dotnet restore
+   ```sh
+   dotnet restore
    ```
 3. Update the connection string in `appsettings.json` if needed.
 4. Run database migrations (if applicable).
 5. Start the server:
-   ```
-dotnet run
+   ```sh
+   dotnet run
    ```
 
 ### Frontend Setup
 1. Navigate to `react/`.
-2. Install dependencies:
-   ```
 npm install
-   ```
-3. Start the React app:
+2. Install dependencies:
+   ```sh
+   npm install
    ```
 npm start
+3. Start the React app:
+   ```sh
+   npm start
    ```
 
 ### Usage
