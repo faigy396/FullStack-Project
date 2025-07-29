@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/96/000000/shopping-cart--v2.png" width="60"/>
-  <img src="https://img.icons8.com/color/96/000000/game-controller.png" width="60"/>
+  <img src="https://www.shutterstock.com/image-vector/colorful-game-controller-icon-vector-600nw-2489844309.jpg" width="60"/>
   <img src="https://img.icons8.com/color/96/000000/user-group-man-man.png" width="60"/>
 </p>
 
@@ -41,12 +41,12 @@ This repository contains a full stack web application for an online shop, built 
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### 🧰 Prerequisites
 - Node.js and npm (for React frontend)
 - .NET 6 SDK or later (for backend)
 - SQL Server (for database)
 
-### Backend Setup
+### ⚡ Backend Setup
 1. Navigate to `web api server/server/`.
 2. Restore NuGet packages:
    ```sh
@@ -59,14 +59,12 @@ This repository contains a full stack web application for an online shop, built 
    dotnet run
    ```
 
-### Frontend Setup
+### ⚡ Frontend Setup
 1. Navigate to `react/`.
-npm install
 2. Install dependencies:
    ```sh
    npm install
    ```
-npm start
 3. Start the React app:
    ```sh
    npm start
@@ -77,7 +75,9 @@ npm start
 - The Web API will run on `http://localhost:5000` (or as configured).
 - Ensure CORS is enabled on the backend for local development.
 
-## Folder Overview
+---
+
+## 📂 Folder Overview
 
 - **react/src/components/**: React components for UI and features
 - **react/src/axios/**: Axios API call modules
@@ -86,8 +86,10 @@ npm start
 - **web api server/DAL/**: Data models and data access logic
 - **web api server/DTO/**: Data transfer objects
 
-## Contributing
+---
+
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
+## 📝 License
 This project is licensed under the MIT License.
